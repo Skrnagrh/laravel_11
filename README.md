@@ -10,6 +10,7 @@ Belajar Laravel 11
 8. Database
 9. Eloquent ORM
 10. Model Factories
+11. Eloquent Relationship
 
 App\Models\Post::create([
 'title' => 'Misteri di Balik Gunung Fuji',
