@@ -15,4 +15,5 @@ Belajar Laravel 11
 13. Database Seeder
 14. N+1 Problem
 15. Redesign UI
-16. Seraching
+16. Searching
+17. pagination
